@@ -6,7 +6,7 @@ Welcome to the Ontario Brain Institute (OBI) tools catalogue! This catalogue con
 
 To browse tools based on modality, select the desired modality from the buttons below:
 
-[![ImagingButton](https://user-images.githubusercontent.com/107212980/173412982-3d6e6065-9c0f-47a1-a73a-c1a071eb3e17.PNG)]([Imaging-Link](https://github.com/BrianWu3/test2/blob/main/Page1))
+[![ImagingButton](https://user-images.githubusercontent.com/107212980/173412982-3d6e6065-9c0f-47a1-a73a-c1a071eb3e17.PNG)]([https://github.com/BrianWu3/test2/blob/main/Page1])
 [![ClinicalButton](https://user-images.githubusercontent.com/107212980/173413073-d50ee701-2ffd-498f-9a72-7087968d2fa1.PNG)](Clinical-Link)
 [![MolecularButton](https://user-images.githubusercontent.com/107212980/173413144-a72f8a8e-4249-42be-b6c2-3f7fe469b173.PNG)](Molecular-Link)
 [![GenomicsButton](https://user-images.githubusercontent.com/107212980/173413217-8187849c-6afe-44b3-91bb-37c740c95a01.PNG)](Genomics-Link)
