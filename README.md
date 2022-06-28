@@ -1,16 +1,13 @@
-![OBI-Banner](https://user-images.githubusercontent.com/107212980/173413394-df6ab659-c054-4764-9afa-ee1f9423f722.png)
-
-# Ontario Brain Institute Tools Catalogue
+![image](https://user-images.githubusercontent.com/107212980/176284819-f6d572d7-e471-4100-92a8-43f96766cba4.png)
 
 Welcome to the Ontario Brain Institute (OBI) tools catalogue! This catalogue contains information regarding the tools that are used across the OBI integrated research programs. 
 
 To browse tools based on modality, select the desired modality from the buttons below:
 
-[![ImagingButton](https://user-images.githubusercontent.com/107212980/173412982-3d6e6065-9c0f-47a1-a73a-c1a071eb3e17.PNG)](ImagingTools.md)
-[![ClinicalButton](https://user-images.githubusercontent.com/107212980/173413073-d50ee701-2ffd-498f-9a72-7087968d2fa1.PNG)](ClinicalTools.md)
-[![MolecularButton](https://user-images.githubusercontent.com/107212980/173413144-a72f8a8e-4249-42be-b6c2-3f7fe469b173.PNG)](MolecularTools.md)
-[![GenomicsButton](https://user-images.githubusercontent.com/107212980/173413217-8187849c-6afe-44b3-91bb-37c740c95a01.PNG)](GenomicTools.md)
-[![GaitButton](https://user-images.githubusercontent.com/107212980/173412658-cb26f463-41d5-4ceb-8a0a-ed43e639ec79.PNG)](GaitandBalanceTools.md)
-[![WearablesButton](https://user-images.githubusercontent.com/107212980/173413264-80b0904b-f40b-4ba2-b934-d3f8e0aed719.PNG)](WearableTools.md)
-[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/173413302-017561c6-7df7-4e4a-8095-25c84746d72a.PNG)](EyeTrackingTools.md)
-[![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/173413327-4e34db2c-744a-4b26-bf3e-92ddfdaaf2c4.PNG)](RetinalImagingTools.md)
+[![ImagingButton](https://user-images.githubusercontent.com/107212980/176284084-683d1e7d-ee53-4990-a89f-09c88b15df72.PNG)](ImagingTools.md)
+[![ClinicalButton](https://user-images.githubusercontent.com/107212980/176281109-248a08e6-7e5a-4118-b6ed-d9f4b95cb10d.PNG)](ClinicalTools.md)
+[![MolecularButton](https://user-images.githubusercontent.com/107212980/176281333-a582c588-b4e6-482b-946a-72c18c27eb02.PNG)](MolecularTools.md)
+[![GaitButton](https://user-images.githubusercontent.com/107212980/176283037-fa528af1-d6f6-43cd-9e82-e185780a62eb.PNG)](GaitandBalanceTools.md)
+[![WearablesButton](https://user-images.githubusercontent.com/107212980/176283127-79897e01-63f3-4230-9e1a-ca0074d146c0.PNG)](WearableTools.md)
+[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/176283546-e0c995ed-4c6e-4afd-8f7d-f5af6fa9e5bf.PNG)](EyeTrackingTools.md)
+[![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/176283624-2de805df-ee0b-4f1c-a7e0-2e20dba51e3c.PNG)](RetinalImagingTools.md)
