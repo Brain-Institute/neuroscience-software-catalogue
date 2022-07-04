@@ -9,7 +9,7 @@ Please select the imaging tool you'd like to look at:
 MRI data is collected and processed in the MRI scanner before being undergoing data curation. 
   
 ### Data Curation Pipeline
-| Tool/Pipeline Name | Description | IDP | Location of Compute | Software/Computing Requirements | License Type | 
+| Tool/Pipeline | Description | Research Program(s) |  Compute Location | Requirements | License | 
 | ---------------- | ----------- | --------------------------- | ----------- | ----------- |----------- |
 | Scan Aquisition Pipeline | Pipeline that checks to see if there's a scan acquisition protocol which outlines specific criteria for scans. | All | Brain-CODE | N/A | Creative Commons Attribution 3.0 |
 | [MRIQC](https://mriqc.readthedocs.io/en/stable/about.html) | Program run on human brain scans and structural scans to provide summary variables. Is used to track outliers and indicate any potential problems in MRI function. Stores data in sessions on SPReD. Designed originally to handle large datasets.  | CAN-BIND, ONDRI | Brain-CODE | Large size CPU | 3-clause BSD|
