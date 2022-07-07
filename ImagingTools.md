@@ -116,5 +116,5 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 ### Data Analysis Pipeline
 </details>
 
-Please use this link to request any comments and suggest any suggestions for improvement: https://forms.gle/7FxjwL3UcTAP79VZ6
+Please use this link to request any improvements or submit any suggestions: https://forms.gle/7FxjwL3UcTAP79VZ6
 
