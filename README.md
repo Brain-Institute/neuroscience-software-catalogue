@@ -12,4 +12,4 @@ To browse tools based on modality, select the desired modality from the buttons 
 [![EyetrackingButton](https://user-images.githubusercontent.com/107212980/176283546-e0c995ed-4c6e-4afd-8f7d-f5af6fa9e5bf.PNG)](EyeTrackingTools.md)
 [![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/176283624-2de805df-ee0b-4f1c-a7e0-2e20dba51e3c.PNG)](RetinalImagingTools.md)
 
-Please use this link to request any improvements or submit any suggestions: https://forms.gle/7FxjwL3UcTAP79VZ6
+Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tJ1GxJj0vs
