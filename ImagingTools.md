@@ -117,6 +117,3 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 </details>
 
 All imaging tools can be found at the excel spreadsheet here: insert link to spreadsheet...
-
-Please use this link to request any improvements or submit any suggestions: https://forms.gle/7FxjwL3UcTAP79VZ6
-
