@@ -47,7 +47,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | ---------------- | ----------- | --------------------------- | ----------- |----------- |----------- |
 | [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) | Tool that is used for conversion of EEG data into EDF format, normalization and standardization of EEG data. |CAN-BIND| Lab | MATLAB, > 8 GB and multi-core 64-bit processors recommended for large datasets | MIT License |
 | [ERPEEG](https://github.com/EEGSignalProcessing/ERPEEG/releases/tag/v2.0) | Tool that is used for streamlined processing of ERP data |CAN-BIND| Lab | MATLAB | GNU General Public License Version 3.0 |
-| [DATA2BIDS](https://pypi.org/project/data2bids/) | includes steps from acquisition to conversion to EDF and packaging to BIDS |EpLink| Brain-CODE | N/A | MIT License |
+| [DATA2BIDS](https://github.com/SIMEXP/Data2Bids) | includes steps from acquisition to conversion to EDF and packaging to BIDS |EpLink| Brain-CODE | N/A | MIT License |
   
 ### Data Processing Pipeline
 
@@ -60,6 +60,9 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 ### Data Collection Pipeline
   
 ### Data Curation Pipeline
+| Tool/Pipeline | Description | Requirements | Compute Location | Additional Information | 
+| ---------------- | --------------------------------- | --------------------------- | --------------------------- | --------------------------- | 
+| DTI tractographer (TBSS part of FSL) | Tool that is used to improve the clarity of DTI results. | N/A | Lab|<details><summary>Research Program(s)</summary> ONDRI </details><details><summary>License</summary>FSL License</details>|
 
 ### Data Processing Pipeline
 
