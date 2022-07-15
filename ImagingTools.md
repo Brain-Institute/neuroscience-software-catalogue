@@ -2,7 +2,7 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| Scan Aquisition Pipeline | Pipeline that checks to see if there's a scan acquisition protocol which outlines specific criteria for scans.<details><summary>License</summary>Creative Commons Attribution 3.0</details> | N/A |Brain-CODE | All |
+| Scan Aquisition Pipeline | Pipeline that checks to see if there's a scan acquisition protocol which outlines specific criteria for scans.<details><summary>License</summary>Creative Commons Attribution 3.0</details> <details><summary>References</summary>Creative Commons Attribution 3.0</details>  | N/A |Brain-CODE | All |
 | [fBIRN](https://www.nitrc.org/projects/fbirn/) | Quality control for any changes in function in fMRI. Stores data in HTML file. Used for non-human/phantom data. <details><summary>License</summary>BSD and BIRN</details> | N/A | Lab | All |
 | [MRIQC](https://github.com/nipreps/mriqc/tree/c57059ee82c2bf07d188dbb588407a41116a1a61) | Program run on human brain scans and structural scans to provide summary variables. Is used to track outliers and indicate any potential problems in MRI function. Stores data in sessions on SPReD. Designed originally to handle large datasets.<details><summary>License</summary>3-clause BSD</details> | Large size CPU|  Brain-CODE | CAN-BIND, ONDRI |
 
