@@ -35,6 +35,12 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 ### Data Analysis Pipeline
 
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| RStudio | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
+| MATLAB | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
+| SPSS | Used for testing of hypotheses by ONDRI resarchers | N/A | At the lab | ONDRI |
+
 </details>
 
 <details>
