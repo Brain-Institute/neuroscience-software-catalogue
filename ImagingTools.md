@@ -5,9 +5,15 @@ Please select the imaging tool you'd like to look at:
 <details>
 <summary>MRI</summary> 
     &nbsp  
-<details><summary>Data Collection Pipelines</summary> MRI data is collected and processed in the MRI scanner before undergoing data curation.</details>
-<details><summary> Data Curation and Processing Pipelines</summary> 
+<details><summary>Data Collection Pipelines</summary> 
+&nbsp
 
+MRI data is collected and processed in the MRI scanner before undergoing data curation.
+</details>
+
+<details><summary> Data Curation and Processing Pipelines</summary> 
+&nbsp 
+    
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | Scan Aquisition Pipeline | Pipeline that checks to see if there's a scan acquisition protocol which outlines specific criteria for scans.<details><summary>License</summary>Creative Commons Attribution 3.0</details> | N/A |Brain-CODE | All |
@@ -32,7 +38,8 @@ Please select the imaging tool you'd like to look at:
 
 <details>
 <summary>Data Analysis Pipeline</summary>
- 
+&nbsp
+
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | RStudio | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
