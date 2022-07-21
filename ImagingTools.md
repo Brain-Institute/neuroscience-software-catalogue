@@ -123,5 +123,3 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 ### Data Analysis Pipeline
 </details>
-
-All imaging tools can be found at the excel spreadsheet here: insert link to spreadsheet...
