@@ -1,21 +1,16 @@
 # Ontario Brain Institute Imaging Tools
 
 Please select the imaging tool you'd like to look at:
-
-![image](https://user-images.githubusercontent.com/107212980/180465668-a98a3cc5-66bc-403b-ab1f-045c2a30c971.png) test
-
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
-
     
 <details>
 <summary>MRI</summary> 
     &nbsp  
-    <details><summary> Data Collection Pipelines</summary> 
+    <blockquote><details><summary> Data Collection Pipelines</summary>
 &nbsp
 MRI data is collected and processed in the MRI scanner before undergoing data curation.
-</details>
+</details></blockquote>
 
-<details><summary> Data Curation and Processing Pipelines</summary> 
+<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
 &nbsp 
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
@@ -38,10 +33,9 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/) | Software that uses a thresholded probabilistic white matter template to create a white matter mask. <details><summary>License</summary>GNU General Public License Version 2.0</details> <details><summary>Tool Citation </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> | N/A | At the lab | ONDRI |
 | [OSIRIX](https://www.osirix-viewer.com/) | Software used for confirmation of de-identification of MRI data by EpLink researchers. <details><summary>License</summary>to be filled</details> <details><summary>Tool Citation </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> | N/A | At the lab | EpLink |
 | [MANGO](https://ric.uthscsa.edu/mango/mango.html) | Software used for confirmation of de-identification of MRI data by EpLink researchers. <details><summary>License</summary>to be filled</details> <details><summary>Tool Citation </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> | N/A | At the lab | EpLink |
-</details>
+</details></blockquote>
 
-<details>
-<summary>Data Analysis Pipeline</summary>
+<blockquote><details><summary>Data Analysis Pipeline</summary>
 &nbsp
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
@@ -50,7 +44,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | MATLAB | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
 | SPSS | Used for testing of hypotheses by ONDRI resarchers | N/A | At the lab | ONDRI |
 
-</details>
+</blockquote></details>
 </details>
 
 <details>
