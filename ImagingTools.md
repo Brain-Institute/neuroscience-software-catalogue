@@ -2,12 +2,13 @@
 
 Please select the imaging tool you'd like to look at:
 
+![image alt <](https://user-images.githubusercontent.com/107212980/180461060-a3722706-2e14-4917-a183-83cecbcf8f4e.png) <p><details><summary> Data Collection Pipelines</summary></details></p>
+
 <details>
 <summary>MRI</summary> 
     &nbsp  
-<details><summary>Data Collection Pipelines</summary> 
+    <details><summary> Data Collection Pipelines</summary> 
 &nbsp
-
 MRI data is collected and processed in the MRI scanner before undergoing data curation.
 </details>
 
