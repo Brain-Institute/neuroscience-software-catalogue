@@ -2,8 +2,11 @@
 
 Please select the imaging tool you'd like to look at:
 
-![image alt <](https://user-images.githubusercontent.com/107212980/180461060-a3722706-2e14-4917-a183-83cecbcf8f4e.png) <p><details><summary> Data Collection Pipelines</summary></details></p>
+![image](https://user-images.githubusercontent.com/107212980/180465668-a98a3cc5-66bc-403b-ab1f-045c2a30c971.png) test
 
+<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
+
+    
 <details>
 <summary>MRI</summary> 
     &nbsp  
