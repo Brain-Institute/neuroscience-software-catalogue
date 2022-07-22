@@ -48,7 +48,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>EEG</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
  
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary>
@@ -68,7 +68,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>DTI</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
   
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
@@ -78,7 +78,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>TMS</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
   
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
@@ -88,7 +88,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>CT</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
   
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
@@ -98,7 +98,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>PET</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
   
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
@@ -108,7 +108,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 <details>
 <summary>MEG</summary>
-
+&nbsp 
 <blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
   
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
