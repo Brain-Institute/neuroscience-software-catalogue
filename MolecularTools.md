@@ -21,6 +21,7 @@
 | Meds Tool | Excel based tool that performs drug categorization.| N/A | At the lab | ONDRI |
 | Simoa | Tool used for molecular classification of amyloid and Tau proteins | N/A | Brain-CODE | ONDRI |
 | Masshunter | Quantitation tool upstream of data upload| N/A | At the lab | ONDRI |
+| Masshunter | Software used to redact all personal health information(PHI) from genetic reports| N/A | At the lab | EpLink |
 </details>
 
 <details><summary>Data Analysis Tools</summary>
