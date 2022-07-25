@@ -50,20 +50,27 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 <details>
 <summary>EEG</summary>
 &nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
- 
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
+<blockquote><details><summary> Data Collection Pipelines</summary>
+&nbsp 
+    
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| [Natus NeuroWorks EEG](https://neuro.natus.com/products-services/natus-neuroworks-eeg-software) | Data collection platform for EEG in the lab <details><summary>License</summary> Proprietary </details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details>| Mid-size CPU | At the lab | EpLink|
+</details></blockquote>
 
-| Tool/Pipeline | Description |Research Program(s)| Compute Location | Requirements | License | 
-| ---------------- | ----------- | --------------------------- | ----------- |----------- |----------- |
-| [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) | Tool that is used for conversion of EEG data into EDF format, normalization and standardization of EEG data. |CAN-BIND| Lab | MATLAB, > 8 GB and multi-core 64-bit processors recommended for large datasets | MIT License |
-| [ERPEEG](https://github.com/EEGSignalProcessing/ERPEEG/releases/tag/v2.0) | Tool that is used for streamlined processing of ERP data |CAN-BIND| Lab | MATLAB | GNU General Public License Version 3.0 |
-| [DATA2BIDS](https://github.com/SIMEXP/Data2Bids) | includes steps from acquisition to conversion to EDF and packaging to BIDS |EpLink| Brain-CODE | N/A | MIT License |
+<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
+&nbsp 
+    
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) | Software that is used for the conversion of EEG data into EDF format and the normalization and standardization of EEG data. <details><summary>License</summary>MIT License </details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details>| MATLAB, > 8 GB and multi-core 64-bit processors recommended for large datasets | At the lab | CAN-BIND|
+| [ERPEEG](https://github.com/EEGSignalProcessing/ERPEEG/releases/tag/v2.0) | Software that is used for streamlined processing of ERP data <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details>| MATLAB | At the lab | CAN-BIND |
+| [TMSEEG](https://github.com/EEGSignalProcessing/TMSEEG/releases/tag/v5.0) | Streamlined app that allows for EEG data collection during TMS application <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> | MATLAB, EEGLAB, FASTICA, tight_subplot.m | At the lab |CAN-BIND|
+| [DATA2BIDS](https://github.com/SIMEXP/Data2Bids) | Software that assists in the acquisition of EEG data and the conversion of EEG data to EDF format and packaging to BIDS format. <details><summary>License</summary> MIT License </details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> |N/A| Brain-CODE|EpLink|
+    
 </details></blockquote>
 
 <blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
-
-
     
 </details>
 
