@@ -37,6 +37,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | [MANGO](https://ric.uthscsa.edu/mango/mango.html) | Software used for confirmation of de-identification of MRI data by EpLink researchers. <details><summary>License</summary>to be filled</details> <details><summary>Tool Citation(s) </summary> To be filled </details> <details><summary>Relevant Publications</summary>To be filled </details> | N/A | At the lab | EpLink |
 </details></blockquote>
 
+
 <blockquote><details><summary>Data Analysis Pipeline</summary>
 &nbsp
 
