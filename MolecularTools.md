@@ -29,7 +29,7 @@
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| R Software |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI |
+| RStudio |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI |
 | SPSS |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI, EpLink |
 | Metaboanalyst.ca | Website used for data analysis of blood sample data. | N/A | Web-based | ONDRI |
 | impute lcmd (R package) | R package used for data analysis (molecular missing data below LOD) | N/A | At the lab | ONDRI |
