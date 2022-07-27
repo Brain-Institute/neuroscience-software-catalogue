@@ -17,11 +17,11 @@
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| Plink | genome association analysis toolset that can be used to conduct a range of large scale analyses| N/A | At the lab | ONDRI |
+| [Plink](https://github.com/GELOG/plink) | genome association analysis toolset that can be used to conduct a range of large scale analyses <details><summary>License</summary>GNU General Public License Version 2.0</details>| N/A | At the lab | ONDRI |
 | Meds Tool | Excel based tool that performs drug categorization.| N/A | At the lab | ONDRI |
-| Simoa | Tool used for molecular classification of amyloid and Tau proteins | N/A | Brain-CODE | ONDRI |
-| Masshunter | Quantitation tool upstream of data upload| N/A | At the lab | ONDRI |
-| Adobe Acrobat Pro 2020 | Software used to redact all personal health information (PHI) from genetic reports| N/A | At the lab | EpLink |
+| [Simoa](https://www.svarlifescience.com/knowledge/technologies/simoa-bead-technology#:~:text=Simoa%20is%20an%20ultra%2Dsensitive,in%20most%20common%20sample%20types.) | Tool used for molecular classification of amyloid and Tau proteins | N/A | Brain-CODE | ONDRI |
+| [Masshunter](https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software?gclid=EAIaIQobChMI0drnxpWZ-QIV_T6tBh20DQ7pEAAYASAAEgJ7MfD_BwE&gclsrc=aw.ds) | Quantitation tool upstream of data upload| N/A | At the lab | ONDRI |
+| [Adobe Acrobat Pro 2020](https://www.adobe.com/ca/acrobat/complete-pdf-solution.html?mv=search&ef_id=EAIaIQobChMIz-2g35WZ-QIVIz2tBh1spgDtEAAYASAAEgLHzPD_BwE:G:s&s_kwcid=AL!3085!3!495116485612!e!!g!!adobe%20acrobat%20pro!12198071516!116786778653&gclid=EAIaIQobChMIz-2g35WZ-QIVIz2tBh1spgDtEAAYASAAEgLHzPD_BwE) | Software used to redact all personal health information (PHI) from genetic reports| N/A | At the lab | EpLink |
 </details>
 
 <details><summary>Data Analysis Tools</summary>
