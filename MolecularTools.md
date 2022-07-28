@@ -33,6 +33,6 @@
 | SPSS |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI, EpLink |
 | [Metaboanalyst.ca](https://www.metaboanalyst.ca/) | Website used for data analysis of blood sample data. | N/A | Web-based | ONDRI |
 | [impute lcmd (R package)](https://rdrr.io/cran/imputeLCMD/) | R package used for data analysis (molecular missing data below LOD) | N/A | At the lab | ONDRI |
-| [Mplus](http://www.statmodel.com/) | Software used for structural modeling of blood sample data. | N/A | At the lab | ONDRI |
+| [Mplus](http://www.statmodel.com/) | Software used for structural modeling of blood sample data. <details><summary>License</summary>Single-User License</details> <details><summary>Tool Citation</summary>Muthén, L.K. and Muthén, B.O. (1998-2017). Mplus User’s Guide. Eighth Edition. Los Angeles, CA: Muthén & Muthén</details><details><summary>Relevant Publications</summary>To be filled</details> | N/A | At the lab | ONDRI |
    
 </details>
