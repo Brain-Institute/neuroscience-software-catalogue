@@ -15,8 +15,8 @@ Include a short introduction to the different types of molecular data OBI/Brain-
 </details>
 
 <details><summary>Data Curation and Processing Tools</summary>
-&nbsp 
-    &nbsp;
+&nbsp
+    
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | [Plink](https://github.com/GELOG/plink) | genome association analysis toolset that can be used to conduct a range of large scale analyses <details><summary>License</summary>GNU General Public License Version 2.0</details>| N/A | At the lab | ONDRI |
@@ -32,9 +32,9 @@ Include a short introduction to the different types of molecular data OBI/Brain-
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | RStudio |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI |
-| SPSS |Software used to write scripts to conduct data analysis.| N/A | At the lab  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp;&nbsp;&nbsp; | ONDRI, EpLink |
-| [Metaboanalyst.ca](https://www.metaboanalyst.ca/) | Website used for data analysis of blood sample data. | N/A | Web-based | ONDRI |
-| [impute lcmd (R package)](https://rdrr.io/cran/imputeLCMD/) | R package used for data analysis (molecular missing data below LOD) <details><summary>License</summary>GNU General Public License Version 2.0 </details>  <details><summary>Tool Citation</summary Cosmin Lazar and Thomas Burger (2022). imputeLCMD: A Collection of Methods for Left-Censored Missing Data Imputation. R package version 2.1. https://CRAN.R-project.org/package=imputeLCMD | [pcaMethods](https://www.bioconductor.org/packages/release/bioc/html/pcaMethods.html) and [impute](https://www.bioconductor.org/packages/release/bioc/html/impute.html) R packages | At the lab | ONDRI |
+| SPSS |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI, EpLink |
+| [Metaboanalyst.ca](https://www.metaboanalyst.ca/) | Website used for data analysis of blood sample data. <details><summary>License</summary>GNU General Public License Version 2.0</details> <details><summary>Tool Citation</summary></details> <details><summary>Relevant Publications</summary>take first 5 from https://www.metaboanalyst.ca/MetaboAnalyst/docs/Publications.xhtml </details> | N/A | Web-based | ONDRI |
+| [impute lcmd (R package)](https://rdrr.io/cran/imputeLCMD/) | R package used for data analysis (molecular missing data below LOD) <details><summary>License</summary>GNU General Public License Version 2.0 </details>  <details><summary>Tool Citation</summary> Cosmin Lazar and Thomas Burger (2022). imputeLCMD: A Collection of Methods for Left-Censored Missing Data Imputation. R package version 2.1. https://CRAN.R-project.org/package=imputeLCMD | [pcaMethods](https://www.bioconductor.org/packages/release/bioc/html/pcaMethods.html) and [impute](https://www.bioconductor.org/packages/release/bioc/html/impute.html) R packages | At the lab | ONDRI |
 | [Mplus](http://www.statmodel.com/) | Software used for structural modeling of blood sample data. <details><summary>License</summary>Single-User License</details> <details><summary>Tool Citation</summary>Muthén, L.K. and Muthén, B.O. (1998-2017). Mplus User’s Guide. Eighth Edition. Los Angeles, CA: Muthén & Muthén</details><details><summary>Relevant Publications</summary>To be filled</details> | N/A | At the lab | ONDRI |
    
 </details>
