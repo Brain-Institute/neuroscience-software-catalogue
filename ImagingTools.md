@@ -41,7 +41,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | [OSIRIX](https://www.osirix-viewer.com/) | Software used for confirmation of de-identification of MRI data by EpLink researchers. <details><summary>License</summary>Perpetual License </details> <details><summary>Tool Citation(s) </summary> Rosset, A., Spadola, L., & Ratib, O. (2004). OsiriX: An Open-Source Software for Navigating in Multidimensional DICOM Images. Journal of Digital Imaging, 17(3), 205–216. https://doi.org/10.1007/s10278-004-1014-6 </details><details><summary>Relevant Publications</summary> [Ratib & Rosset, 2006](https://doi.org/10.1007/s11548-006-0056-2), [Vides Canas et al., 2007](https://doi.org/10.1109/IEMBS.2007.4352974), [Fortin & Battié, 2012](https://doi.org/10.2522/ptj.20110380), [Deora et al., 2020](https://doi.org/10.1016/j.wneu.2020.05.146) </details>| Only compatible on Mac Computers, >6 GB RAM | At the lab | EpLink |
 | [MANGO](https://ric.uthscsa.edu/mango/mango.html) | Software used for confirmation of de-identification of MRI data by EpLink researchers. <details><summary>License</summary> Freeware License </details> <details><summary>Tool Citation(s) </summary> In-text citation:<br> Lancaster, Martinez; www.ric.uthscsa.edu/mango</details> <details><summary>Relevant Publications</summary> To be filled </details> | N/A | At the lab | EpLink |
 | [fMRIPrep](https://fmriprep.org/en/stable/) | Preprocessing pipeline for task-based and resting-state functional MRI | N/A | At the lab | POND |
-| Bpipe | Preprocessing pipeline (masking, image registration, etc). Needed for CIVET/MAGeT/Freesurfer. | N/A | At the lab | POND |
+| [Bpipe](https://github.com/ssadedin/bpipe/) | Preprocessing pipeline (masking, image registration, etc). Needed for CIVET/MAGeT/Freesurfer. <details<summary>Tool Citation(s)</summary>Sadedin S, Pope B & Oshlack A, Bpipe: A Tool for Running and Managing Bioinformatics Pipelines, Bioinformatics</details> | N/A | At the lab | POND |
 | [CIVET](http://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-2-1-0-Table-of-Contents) | Cortical morphometry pipeline that uses deformable models to fit and measure the human cortex. Similar function to Freesurfer. | N/A | At the lab | POND |
 | MAGeT | General purpose segmentation pipeline that does automatic template generation for multi-atlas segmentation. | N/A | At the lab | POND |
 | [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferBeginnersGuide) | Set of software tools for study of cortical and subcortical anatomy. Similar function to CIVET. | Linux/OSX Operating Systems| At the lab | POND |
@@ -57,7 +57,9 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | RStudio | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
 | MATLAB | Used for data visualization for structural MRI data | N/A | At the lab | ONDRI |
 | SPSS | Used for testing of hypotheses by ONDRI resarchers | N/A | At the lab | ONDRI |
-
+| [Minc-toolkit2](https://en.wikibooks.org/wiki/MINC/Introduction) | Set of software tools for advanced image processing, pipelining, statistical analysis, and visualization. | N/A | At the lab | POND |
+| [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL) | Library of analysis tools for fMRI, MRI, and DTI brain imaging data. | N/A | At the lab | POND |
+    
 </blockquote></details>
 </details>
 
