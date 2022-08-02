@@ -42,7 +42,16 @@
 &nbsp
 
 **Python Packages**
+pandas, matplotlib/seaborn -> CP-NET
   
 **R Packages**
-
+Tidyverse, dplyr, and Haven packages. -> CAN-BIND
+"devtools", "xml2", "shiny", "shinyFiles", "shinyWidgets", "shinyjs", "shinyalert", "V8", "stringr", "dplyr", "lubridate", "varhandle", "readr"
+ " "shinydashboard", "shinycssloaders",
+                    "DT", , "tidyr", "tibble", "ggplot2", "purrr", 
+                    "magrittr", "missMDA"
+  "devtools",, "plotly", 
+                    "rmarkdown", "markdown", "knitr", "corrplot", "pander", 
+                    "abind", "stringr", "viridis", "pheatmap", "tinytex"->ONDRI
+  
 </details>
