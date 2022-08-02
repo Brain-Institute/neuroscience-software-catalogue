@@ -21,7 +21,19 @@
 | REDCap | Online survey conduction and collection | N/A | Brain-CODE |EpLink|
 | Python | Online survey conduction and collection | N/A | Brain-CODE |CP-NET|
 
-  
 </details>
   
-<details><summary>Data Analysis Pipelines</summary></details>
+<details><summary>Data Analysis Pipelines</summary>
+&nbsp
+
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| RStudio | Online survey conduction and collection | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, POND|
+| MATLAB | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
+| Python | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
+| SPSS | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
+| SASS | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
+| NVIVO | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
+| JMP | Online survey conduction and collection | N/A | Brain-CODE |POND|
+  
+</details>
