@@ -5,8 +5,8 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| REDCap | Online survey conduction and collection | N/A | Brain-CODE |CP-NET, EPLINK, CAN-BIND, ONDRI, CONNECT|
-| Medidata Rave | Data is scored entering into the system. Cloud based clinical data management system used for electornic data capture. Flags errors.| N/A | At AHRC |POND|
+| [REDCap](https://www.project-redcap.org/) | Online survey conduction and collection | N/A | Brain-CODE |CP-NET, EPLINK, CAN-BIND, ONDRI, CONNECT|
+| [Medidata Rave](https://www.medidata.com/en/clinical-trial-products/clinical-data-management/edc-systems/) | Data is scored entering into the system. Cloud based clinical data management system used for electornic data capture. Flags errors.| N/A | At AHRC |POND|
 
 </details>
 
@@ -15,11 +15,11 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| RStudio | Online survey conduction and collection | N/A | At the lab |CAN-BIND|
-| RStudio | Online survey conduction and collection | N/A | Brain-CODE |ONDRI|
+| [RStudio](https://www.rstudio.com/) | Online survey conduction and collection | N/A | At the lab |CAN-BIND|
+| [RStudio](https://www.rstudio.com/) | Online survey conduction and collection | N/A | Brain-CODE |ONDRI|
 |include 3 ONDRI R packages|
-| REDCap | Online survey conduction and collection | N/A | Brain-CODE |EpLink|
-| Python | Online survey conduction and collection | N/A | Brain-CODE |CP-NET|
+| [REDCap](https://www.project-redcap.org/) | Online survey conduction and collection | N/A | Brain-CODE |EpLink|
+| [Python](https://www.python.org/) | Online survey conduction and collection | N/A | Brain-CODE |CP-NET|
 
 </details>
   
@@ -28,13 +28,13 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| RStudio | Online survey conduction and collection | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, POND|
-| MATLAB | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
-| Python | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
-| SPSS | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
-| SASS | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
-| NVIVO | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
-| JMP | Online survey conduction and collection | N/A | At the lab |POND|
+| [RStudio](https://www.rstudio.com/) | Online survey conduction and collection | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, POND|
+| [MATLAB](https://www.mathworks.com/products/matlab.html) | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| [Python](https://www.python.org/) | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| [SPSS](https://www.ibm.com/products/spss-statistics?utm_content=SRCWW&p1=Search&p4=43700050715561164&p5=e&gclid=EAIaIQobChMIt-eJ2_Wo-QIV2vvjBx1mQwE9EAAYASAAEgJ0vfD_BwE&gclsrc=aw.ds) | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| [SASS](https://sass-lang.com/) | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| [NVIVO](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| [JMP](https://www.jmp.com/en_ca/offers/jmp-free-trial.html?utm_term=jmp&utm_campaign=(JMP)+Amer+-+CAN+-+ENG+-+Search+-+Branded&utm_source=adwords&utm_medium=ppc&hsa_acc=9962611730&hsa_cam=15955150013&hsa_grp=133915103193&hsa_ad=576168617756&hsa_src=g&hsa_tgt=kwd-169702162&hsa_kw=jmp&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIlPD_6vWo-QIVj-DICh1VagyLEAAYASAAEgIM9_D_BwE) | Online survey conduction and collection | N/A | At the lab |POND|
   
 </details>
 
