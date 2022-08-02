@@ -41,17 +41,20 @@
 <details><summary>Clinical Coding Packages</summary>
 &nbsp
 
-**Python Packages**
-pandas, matplotlib/seaborn -> CP-NET
-  
-**R Packages**
-Tidyverse, dplyr, and Haven packages. -> CAN-BIND
-"devtools", "xml2", "shiny", "shinyFiles", "shinyWidgets", "shinyjs", "shinyalert", "V8", "stringr", "dplyr", "lubridate", "varhandle", "readr"
- " "shinydashboard", "shinycssloaders",
-                    "DT", , "tidyr", "tibble", "ggplot2", "purrr", 
-                    "magrittr", "missMDA"
-  "devtools",, "plotly", 
-                    "rmarkdown", "markdown", "knitr", "corrplot", "pander", 
-                    "abind", "stringr", "viridis", "pheatmap", "tinytex"->ONDRI
-  
+| Package Name | Description | Coding Language | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ---------|
+| Tidyverse | ----------- | R | CAN-BIND, ONDRI |
+| dplyr | ----------- | R | CAN-BIND, ONDRI |
+| Haven | ----------- | R | CAN-BIND |
+| stringr | ----------- | R | ONDRI |
+| lubridate | ----------- | R | ONDRI |
+| varhandle | ----------- | R | ONDRI |
+| readr | ----------- | R | ONDRI |
+| DT | ----------- | R | ONDRI |
+| tidyr | ----------- | R | ONDRI |
+| knitr | ----------- | R | ONDRI |
+| abind | ----------- | R | ONDRI |
+| pandas | ----------- | Python | CP-NET |
+| matplotlib/seaborn | ----------- | Python | CP-NET |
+
 </details>
