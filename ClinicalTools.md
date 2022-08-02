@@ -10,6 +10,18 @@
 
 </details>
 
-<details><summary>Data Curation and Processing Pipelines</summary></details>
+<details><summary>Data Curation and Processing Pipelines</summary>
+&nbsp
+
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| RStudio | Online survey conduction and collection | N/A | At the lab |CAN-BIND|
+| RStudio | Online survey conduction and collection | N/A | Brain-CODE |ONDRI|
+|include 3 ONDRI R packages|
+| REDCap | Online survey conduction and collection | N/A | Brain-CODE |EpLink|
+| Python | Online survey conduction and collection | N/A | Brain-CODE |CP-NET|
+
+  
+</details>
   
 <details><summary>Data Analysis Pipelines</summary></details>
