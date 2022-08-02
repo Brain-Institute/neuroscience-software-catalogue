@@ -40,7 +40,9 @@
 
 <details><summary>Clinical Coding Packages</summary>
 &nbsp
-##Python Packages
 
-##R Packages
+**Python Packages**
+  
+**R Packages**
+
 </details>
