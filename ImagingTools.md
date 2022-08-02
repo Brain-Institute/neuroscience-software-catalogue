@@ -112,7 +112,28 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
     
 </details></blockquote>
 
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
+<blockquote><details><summary> Data Analysis Pipelines</summary>
+&nbsp
+    
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|
+| 3D Slicer - DWIConverter Module | Converts data to NIFTI format and converts data to NIFTI format | N/A | At the lab | ONDRI | 
+| 3D Slicer - Robust Brain Extraction (ROBEX) Module | Performs skull stripping | N/A | At the lab | ONDRI | 
+| FSL - FLIRT | Used for linear registration to T1 | N/A | At the lab | ONDRI | 
+| FSL - BBR  | Used for further adjustments for linear registration to T1 mas | N/A | At the lab | ONDRI | 
+| FSL - BET2 | Performs skull stripping | N/A | At the lab | ONDRI | 
+| 3D Slicer - DWIConverter Module | Converts the raw DTI data to NRRD format.  | N/A | At the lab | ONDRI | 
+| 3D Slicer - DWIConverter Module | Converts the quality controlled DTI data obtanined from DTIPrep in NRRD format to NIFTI format.  | N/A | At the lab | ONDRI | 
+| FSL - BBR Tool | Used for linear registration of the b0 volume in the DTI data to the corresponding T1-weighted image. | N/A | At the lab | ONDRI | 
+| FSL - FLIRT - applyxfm4D | Applies the transformation obtained from the previous step (BBR) to all the gradient volumes in DTI data to transfer the DTI data to the native T1-weighted space.  | N/A | At the lab | ONDRI | 
+| FSL - BET2 | Used for skull stripping of DTI data | N/A | At the lab | ONDRI | 
+| ANTs - SyN Registration Algorithm | Used for non-linear registration of the b=0 image in the DTI data to the T2-weighted image. Used to remove EPI artifacts.  | N/A | At the lab | ONDRI | 
+| ANTs - antsApplyTransforms | Used for multiresolution nonlinear registration of DTI data to registered T2 images.  | N/A | At the lab | ONDRI | 
+| Camino - RESTORE algorithm | Conducts robust tensorfitting to estimate voxelwise diffusion tensors from the DTI data using an iteratively reweighted least-square regression algorithm. Used to capture and remove outlier voxels from the tensor fitting. | N/A | At the lab | ONDRI | 
+| FSL - dtifit | DTI scalar metrics calculation | N/A | At the lab | ONDRI | 
+| MATLAB | Conducts region of interest (ROI) analysis based on the regions provided by ONDRI SABRE lesion masks. | N/A | At the lab | ONDRI | 
+
+</details></blockquote>
 </details>
 
 <details>
