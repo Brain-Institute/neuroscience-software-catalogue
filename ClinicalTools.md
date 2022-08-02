@@ -29,11 +29,11 @@
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | RStudio | Online survey conduction and collection | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, POND|
-| MATLAB | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
-| Python | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
-| SPSS | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
-| SASS | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
-| NVIVO | Online survey conduction and collection | N/A | Brain-CODE |ONDRI, CP-NET|
-| JMP | Online survey conduction and collection | N/A | Brain-CODE |POND|
+| MATLAB | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| Python | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| SPSS | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| SASS | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| NVIVO | Online survey conduction and collection | N/A | At the lab |ONDRI, CP-NET|
+| JMP | Online survey conduction and collection | N/A | At the lab |POND|
   
 </details>
