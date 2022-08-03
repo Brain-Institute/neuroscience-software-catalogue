@@ -5,7 +5,7 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [REDCap](https://www.project-redcap.org/) | Online survey conduction and collection | N/A | Brain-CODE |CP-NET, EPLINK, CAN-BIND, ONDRI, CONNECT|
+| [REDCap](https://www.project-redcap.org/) | Online survey conduction and collection | N/A | [Brain-CODE](https://www.braincode.ca/) |CP-NET, EPLINK, CAN-BIND, ONDRI, CONNECT|
 | [Medidata Rave](https://www.medidata.com/en/clinical-trial-products/clinical-data-management/edc-systems/) | Data is scored entering into the system. Cloud based clinical data management system used for electornic data capture. Flags errors.| N/A | At AHRC |POND|
 
 </details>
@@ -15,8 +15,12 @@
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [RStudio](https://www.rstudio.com/) | Online survey conduction and collection | N/A | At the lab |CAN-BIND|
-| [RStudio](https://www.rstudio.com/) | Online survey conduction and collection | N/A | Brain-CODE |ONDRI|
+| [RStudio](https://www.rstudio.com/) | Software used to write R scripts which are subsequently used to wrangle data. | N/A | At the lab |CAN-BIND|
+| [RStudio](https://www.rstudio.com/) | <p>Software used to write R scripts that conduct 3 main functions </br> 1. Directly reading data from REDCap using an API token. 2. Quality control of REDCap data by examining missing-ness (missing-ness/date-range issues) and correcting for any issues</p> | N/A | [Brain-CODE](https://www.braincode.ca/) |ONDRI|
+  
+
+Look up raw score in tables for that participant's age and education and compare that scaled score to coordinator entered scaled score -> examine human error.
+  
 | [Data Preparation (Shiny) App](https://github.com/ondri-nibs/dataprep_app) | Prepares ONDRI data for outlier analysis. <details><summary>License</summary>GNU General Public License Version 3.0</details> | R, RStudio, [GSVD](https://github.com/derekbeaton/GSVD) and [ours](https://github.com/derekbeaton/OuRS) R Packages | At the lab | ONDRI| 
 | [Outliers (Shiny) App](https://github.com/ondri-nibs/outliers_app) | Performs outlier analyses on ONDRI data <details><summary>License</summary>GNU General Public License Version 3.2</details> | R, Rstudio | At the lab | ONDRI| 
 | [REDCap](https://www.project-redcap.org/) | Online survey conduction and collection | N/A | Brain-CODE |EpLink|
