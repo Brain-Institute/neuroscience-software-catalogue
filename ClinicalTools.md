@@ -51,8 +51,7 @@
 | [lubridate](https://lubridate.tidyverse.org/) | Package that allows for easier use of date and time in R. <details><summary>License</summary>GNU General Public License Version 2 </details> <details><summary>Tool Citation(s)</summary>Garrett Grolemund, Hadley Wickham (2011). Dates and Times Made Easy with lubridate. Journal of Statistical Software, 40(3), 1-25. URL https://www.jstatsoft.org/v40/i03/.</details> | R | ONDRI |
 | [varhandle](https://bitbucket.org/mehrad_mahmoudian/varhandle/wiki/Home) | Package that allows for easier, faster, and safer handling of variables in R. <details><summary>License</summary>GNU General Public License Version 2 </details> <details><summary>Tool Citation(s)</summary>Mehrad Mahmoudian (2020). varhandle: Functions for Robust Variable Handling. R package version 2.0.5. https://CRAN.R-project.org/package=varhandle.</details> | R | ONDRI |
 | [readr](https://readr.tidyverse.org/) | Package that allows for efficient reading of rectangular data from delimited files such as comma-separated values (CSV) and tab-separated values (TSV). <details><summary>License</summary>MIT License</details> <details><summary>Tool Citation(s)</summary>Wickham H, Hester J, Bryan J (2022). readr: Read Rectangular Text Data. https://readr.tidyverse.org, https://github.com/tidyverse/readr.</details> | R | ONDRI |
-| DT | ----------- | R | ONDRI |
-| tidyr | ----------- | R | ONDRI |
+| [tidyr](https://tidyr.tidyverse.org/) | Package that allows for tidying of data in R. <details><summary>License</summary>MIT License</details> <details><summary>Tool Citation(s)</summary>Wickham H, Girlich M (2022). tidyr: Tidy Messy Data. https://tidyr.tidyverse.org, https://github.com/tidyverse/tidyr.</details> | R | ONDRI |
 | knitr | ----------- | R | ONDRI |
 | abind | ----------- | R | ONDRI |
 | pandas | ----------- | Python | CP-NET |
