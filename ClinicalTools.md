@@ -44,9 +44,9 @@
 
 | Package Name | Description | Coding Language | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ---------|
-| Tidyverse | ----------- | R | CAN-BIND, ONDRI |
-| dplyr | ----------- | R | CAN-BIND, ONDRI |
-| Haven | ----------- | R | CAN-BIND |
+| [Tidyverse](https://tidyverse.tidyverse.org/) |Set of packages that allow for efficient installation and use of packages from the tidyverse. <details><summary>Tool Citation(s)</summary>Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R, Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller E, Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K, Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to the tidyverse.” Journal of Open Source Software, 4(43), 1686. doi:10.21105/joss.01686.</details> | R | CAN-BIND, ONDRI |
+| [dplyr](https://dplyr.tidyverse.org/) | Package inside the tidyverse that consists of a set of functions that solve the most common data manipulations. <details><summary>License</summary>MIT License</details> <details><summary>Tool Citation(s)</summary>Wickham H, François R, Henry L, Müller K (2022). dplyr: A Grammar of Data Manipulation. https://dplyr.tidyverse.org, https://github.com/tidyverse/dplyr.</details>| R | CAN-BIND, ONDRI |
+| [Haven](https://haven.tidyverse.org/) | Package inside the tidyverse that allows for the reading and writing of various data formats used by other statistical packages in R. <details><summary>License</summary>MIT License</details> <details><summary>Tool Citation(s)</summary>Wickham H, Miller E, Smith D (2022). haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files. https://haven.tidyverse.org, https://github.com/tidyverse/haven, https://github.com/WizardMac/ReadStat.</details>| R | CAN-BIND |
 | stringr | ----------- | R | ONDRI |
 | lubridate | ----------- | R | ONDRI |
 | varhandle | ----------- | R | ONDRI |
