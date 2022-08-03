@@ -71,9 +71,13 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [Natus NeuroWorks EEG](https://neuro.natus.com/products-services/natus-neuroworks-eeg-software) | Data collection platform for EEG in the lab <details><summary>License</summary> Proprietary </details> <details><summary>**Tool Citation(s)** </summary> To be filled </details> <details><summary>**Relevant Publications**</summary>To be filled </details>| Mid-size CPU | At the lab | EpLink|
+| [Natus NeuroWorks EEG](https://neuro.natus.com/products-services/natus-neuroworks-eeg-software) | Data collection platform for EEG in the lab <details><summary>License</summary> Proprietary </details> <details><summary>Tool Citation(s) </summary> Natus products & services. https://neuro.natus.com/products-services </details> <details><summary>Relevant Publications</summary>[Stacey et al., 2013](https://doi.org/10.1111/epi.12202), [McKay et al., 2019](https://doi.org/10.1097/WNP.0000000000000603), [Baldwin et al., 2021](https://doi.org/10.1177/15500594211063710), [Nayak & Nattanmai, 2021](https://doi.org/10.1016/j.eplepsyres.2021.106623) </details>| Mid-size CPU | At the lab | EpLink|
 </details></blockquote>
 
+    
+    
+    
+    
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary>
 &nbsp 
     
