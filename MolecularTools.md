@@ -1,6 +1,6 @@
 # Ontario Brain Institute Molecular Tools
 
-Include a short introduction to the different types of molecular data OBI/Brain-CODE provides and maybe the researchers that collect the data?
+Please select one of the dropdowns to browse tools used in molecular data collection, data curation and processing, and data analysis.
 
 <details><summary>Data Collection Tools</summary>
 &nbsp 
