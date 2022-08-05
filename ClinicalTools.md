@@ -1,5 +1,9 @@
 # Ontario Brain Institute Clinical Tools
 
+Please select one of the dropdowns to browse tools used in clinical data collection, data curation and processing, and data analysis.
+
+Since Python and R are common languages used in clinical data curation and analysis, we've also developed a catalogue of useful R and Python packages that can be found under the "Clinical Coding Packages" dropdown.
+
 <details><summary>Data Collection Pipelines</summary>
 &nbsp
 
