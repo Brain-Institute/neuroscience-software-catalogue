@@ -1,5 +1,7 @@
 # Ontario Brain Institute Wearable Tools
 
+Please select one of the dropdowns to browse tools used in wearables data collection, data curation and processing, and data analysis.
+
 <details><summary>Data Collection Pipelines</summary>
 &nbsp;
 
