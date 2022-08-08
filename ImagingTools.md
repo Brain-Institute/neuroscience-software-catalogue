@@ -67,9 +67,9 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [Nilearn](https://github.com/nilearn/nilearn) |  | N/A | At the lab | CAN-BIND |
-| [Scikit-learn](https://github.com/scikit-learn/scikit-learn) |  | N/A | At the lab | CAN-BIND |
-| [MATLAB - PLS Toolbox](https://www.mathworks.com/help/stats/plsregress.html) |  | N/A | At the lab | CAN-BIND |
+| [Nilearn](https://github.com/nilearn/nilearn) | Python package that uses statistical and machine-learning tools to perform analyses on brain volumes such as feature parcellation, automated anatomical labeling (AAL), and connectivity estimation. | N/A | At the lab | CAN-BIND |
+| [Scikit-learn](https://github.com/scikit-learn/scikit-learn) | Python package for machine learning that can be used to conduct correlations, partial correlations, tangents, logistic regression, gradient boosted decision trees (GBDT), random forest models, and Stochastic gradient descent (SGD) models | N/A | At the lab | CAN-BIND |  
+| [MATLAB - PLS Toolbox](https://www.mathworks.com/help/stats/plsregress.html) | MATLAB toolbox that is used to conduct statistical analysis of functional connectivity on fMRI data.| N/A | At the lab | CAN-BIND |
 | Fieldtrip - automated anatomical labeling (AAL) atlas | Atlas used for MRI spatial pattern analysis. | N/A | At the lab | CAN-BIND |
 | MNI2TAL | Tool used for manual inspection of neuroimaging clusters. | N/A | At the lab | CAN-BIND |
 | statsmodel Python package | Tool used for statistical analysis of MRI data. | N/A | At the lab | CAN-BIND |
