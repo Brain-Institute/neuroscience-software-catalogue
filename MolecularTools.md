@@ -52,6 +52,9 @@ Please select one of the dropdowns to browse tools used in molecular data collec
 | RNAHybrid |Tool used for target prediction of miRNA cargo.| N/A | At the lab | CAN-BIND |
 | TargetScan |Tool used for target prediction of miRNA cargo.| N/A | At the lab | CAN-BIND |
 | METAL | Software used for metal-analysis and Cochran l test.| N/A | At the lab | CAN-BIND |
+| survival R package | R package used to conduct Cox regression.| N/A | At the lab | CAN-BIND |
+| lme4 R package | R package used to conduct Linear mixed-effects models.| N/A | At the lab | CAN-BIND |
+| FUMA v1.3.5e – MAGMA | Software used for genome-wide gene analysis.| N/A | At the lab | CAN-BIND |
 | [RStudio](https://www.rstudio.com/) |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI |
 | [SPSS](https://www.ibm.com/products/spss-statistics?utm_content=SRCWW&p1=Search&p4=43700050715561164&p5=e&gclid=EAIaIQobChMIt-eJ2_Wo-QIV2vvjBx1mQwE9EAAYASAAEgJ0vfD_BwE&gclsrc=aw.ds) |Software used to write scripts to conduct data analysis.| N/A | At the lab | ONDRI, EpLink |
 | [Metaboanalyst.ca](https://www.metaboanalyst.ca/) | Website used for data analysis of blood sample data. <details><summary>License</summary>GNU General Public License Version 2.0</details> <details><summary>Tool Citation(s)</summary>MetaboAnalyst (RRID:SCR_015539)</details> <details><summary>Relevant Publications</summary>[Chong et al., 2019](https://doi.org/10.1002/cpbi.86), [Pang et al., 2020](https://doi.org/10.3390/metabo10050186), [Pang, Chong, et al., 2021](https://doi.org/10.1093/nar/gkab382), [Pang, Zhou, et al., 2021](https://doi.org/10.3390/metabo11010044), [Pang et al., 2022](https://doi.org/10.1038/s41596-022-00710-w)</details> | N/A | Web-based | ONDRI |
