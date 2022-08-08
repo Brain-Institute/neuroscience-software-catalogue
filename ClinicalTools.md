@@ -36,7 +36,11 @@ Since Python and R are common languages used in clinical data curation and analy
 | [RStudio](https://www.rstudio.com/) | Software that is used to write R scripts which are subsequently used to analyze clinical datasets. | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, POND &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | [NVIVO](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) | Software used to conduct thematic analysis on qualitative datasets. | N/A | At the lab |CAN-BIND, CP-NET|
 | [SPSS](https://www.ibm.com/products/spss-statistics?utm_content=SRCWW&p1=Search&p4=43700050715561164&p5=e&gclid=EAIaIQobChMIt-eJ2_Wo-QIV2vvjBx1mQwE9EAAYASAAEgJ0vfD_BwE&gclsrc=aw.ds) | Software suite used for data analysis of clinical datasets. | N/A | At the lab |CAN-BIND, ONDRI, CP-NET, EpLink|
-| HLM | Software used for multilevel linear growth analyses. | N/A | At the lab |CAN-BIND|
+| nlme R Package | R package used to conduct mixed effect models (MMRMs) and logistic regression models. | N/A | At the lab |CAN-BIND|
+| pROC R Package | R package used to conduct ROC analysis. | N/A | At the lab |CAN-BIND|
+| OptimalCutpoints R Package | R package used to conduct ROC analysis. | N/A | At the lab |CAN-BIND|
+| mice R Package | R package used to conduct multiple imputation. | N/A | At the lab |CAN-BIND|
+| multcomp R Package | R package used for general parametric modeling. | N/A | At the lab |CAN-BIND|
 | [MATLAB](https://www.mathworks.com/products/matlab.html) | Software that is used to write scripts which are subsequently used to analyze clinical datasets. | N/A | At the lab |ONDRI, CP-NET |
 | [Python](https://www.python.org/) | Programming language used to write scripts to analyze clinical datasets. | N/A | At the lab |ONDRI, CP-NET|
 | [SASS](https://sass-lang.com/) | CSS language extension used for data analysis of clinical datasets. | N/A | At the lab |ONDRI, CP-NET|
