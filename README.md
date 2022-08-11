@@ -7,7 +7,7 @@ To browse tools based on modality, select the desired modality from the buttons 
 [![ImagingButton](https://user-images.githubusercontent.com/107212980/184235062-8e29339c-54c5-4668-bdb3-c686bbe1622f.PNG)](ImagingTools.md)
 [![ClinicalButton](https://user-images.githubusercontent.com/107212980/184235136-05f152e1-ed43-47df-8683-d2a3b6bedd1c.PNG)](ClinicalTools.md)
 [![MolecularButton](https://user-images.githubusercontent.com/107212980/184235214-ccdaad37-e446-4d63-8f28-f1a909760f59.PNG)](MolecularTools.md)
-[![WearablesButton](https://user-images.githubusercontent.com/107212980/176283127-79897e01-63f3-4230-9e1a-ca0074d146c0.PNG)](WearableTools.md)
+[![WearablesButton](https://user-images.githubusercontent.com/107212980/184236323-83aa5beb-abef-4272-8da9-ca2a03cdbc45.PNG)](WearableTools.md)
 [![EyetrackingButton](https://user-images.githubusercontent.com/107212980/184236127-e46c842c-f53d-438f-81a9-4d525bbef145.PNG)](EyeTrackingTools.md)
 [![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/184235377-18ae56d9-60d2-4b5e-b49d-617c0c010372.PNG)](RetinalImagingTools.md)
 
