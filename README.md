@@ -8,7 +8,7 @@ To browse tools based on modality, select the desired modality from the buttons 
 [![ClinicalButton](https://user-images.githubusercontent.com/107212980/184235136-05f152e1-ed43-47df-8683-d2a3b6bedd1c.PNG)](ClinicalTools.md)
 [![MolecularButton](https://user-images.githubusercontent.com/107212980/184235214-ccdaad37-e446-4d63-8f28-f1a909760f59.PNG)](MolecularTools.md)
 [![WearablesButton](https://user-images.githubusercontent.com/107212980/176283127-79897e01-63f3-4230-9e1a-ca0074d146c0.PNG)](WearableTools.md)
-[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/184235341-fb447add-dc74-49e4-8a6c-ab31ce7d366b.PNG)](EyeTrackingTools.md)
+[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/184236127-e46c842c-f53d-438f-81a9-4d525bbef145.PNG)](EyeTrackingTools.md)
 [![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/184235377-18ae56d9-60d2-4b5e-b49d-617c0c010372.PNG)](RetinalImagingTools.md)
 
 OBI follows the FAIR principles for software. More information about the FAIR principles can be found [here](FAIR.md).
