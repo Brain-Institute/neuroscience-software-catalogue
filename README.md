@@ -4,12 +4,12 @@ Welcome to the Ontario Brain Institute (OBI) tools catalogue! This catalogue con
 
 To browse tools based on modality, select the desired modality from the buttons below:
 
-[![ImagingButton](https://user-images.githubusercontent.com/107212980/176284084-683d1e7d-ee53-4990-a89f-09c88b15df72.PNG)](ImagingTools.md)
-[![ClinicalButton](https://user-images.githubusercontent.com/107212980/176281109-248a08e6-7e5a-4118-b6ed-d9f4b95cb10d.PNG)](ClinicalTools.md)
-[![MolecularButton](https://user-images.githubusercontent.com/107212980/176281333-a582c588-b4e6-482b-946a-72c18c27eb02.PNG)](MolecularTools.md)
+[![ImagingButton](https://user-images.githubusercontent.com/107212980/184235062-8e29339c-54c5-4668-bdb3-c686bbe1622f.PNG)](ImagingTools.md)
+[![ClinicalButton](https://user-images.githubusercontent.com/107212980/184235136-05f152e1-ed43-47df-8683-d2a3b6bedd1c.PNG)](ClinicalTools.md)
+[![MolecularButton](https://user-images.githubusercontent.com/107212980/184235214-ccdaad37-e446-4d63-8f28-f1a909760f59.PNG)](MolecularTools.md)
 [![WearablesButton](https://user-images.githubusercontent.com/107212980/176283127-79897e01-63f3-4230-9e1a-ca0074d146c0.PNG)](WearableTools.md)
-[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/176283546-e0c995ed-4c6e-4afd-8f7d-f5af6fa9e5bf.PNG)](EyeTrackingTools.md)
-[![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/176283624-2de805df-ee0b-4f1c-a7e0-2e20dba51e3c.PNG)](RetinalImagingTools.md)
+[![EyetrackingButton](https://user-images.githubusercontent.com/107212980/184235341-fb447add-dc74-49e4-8a6c-ab31ce7d366b.PNG)](EyeTrackingTools.md)
+[![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/184235377-18ae56d9-60d2-4b5e-b49d-617c0c010372.PNG)](RetinalImagingTools.md)
 
 OBI follows the FAIR principles for software. More information about the FAIR principles can be found [here](FAIR.md).
 
