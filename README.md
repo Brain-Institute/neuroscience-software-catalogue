@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/107212980/176284819-f6d572d7-e471-4100-92a8-43f96766cba4.png)
 
-Welcome to the Ontario Brain Institute (OBI) tools catalogue! This catalogue contains information regarding the tools that are used across the OBI integrated research programs. 
+Welcome to the Ontario Brain Institute (OBI) tools catalogue! This catalogue contains information regarding the tools that are used across the OBI Integrated Discovery Programs. 
 
 To browse tools based on modality, select the desired modality from the buttons below:
 
