@@ -23,4 +23,5 @@ Please select one of the dropdowns to browse tools used in data collection, data
 
 </details>
 
+<details><summary>Data Analysis Pipelines</summary></details>
 
