@@ -14,7 +14,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 <blockquote><details><summary> Data Curation and Processing Pipelines</summary>
 &nbsp 
     
-| Tool/Pipeline | Description | Requirements | Compute Location | Research Program(s) |
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
 | Naming convention pipeline | Pipeline that re-names data to be more easily processed on SPReD.<details><summary>License</summary>Creative Commons Attribution 3.0</details> | N/A | [Brain-CODE](https://www.braincode.ca/) | All |
 | Scan Aquisition Pipeline | Pipeline that checks to see if there's a scan acquisition protocol which outlines specific criteria for scans.<details><summary>License</summary>Creative Commons Attribution 3.0</details> | N/A |[Brain-CODE](https://www.braincode.ca/) | All |
