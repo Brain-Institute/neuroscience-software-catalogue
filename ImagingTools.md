@@ -111,9 +111,22 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
     
 </details></blockquote>
 
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
- 
-EDFbrowser, MNE, Fieldtrip, BrainStorm, SPM, nibabel, nilearn, Brain4views, plotly
+<blockquote><details><summary> Data Analysis Pipelines</summary>
+&nbsp 
+    
+| Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
+| ---------------- | ----------- | --------------------------- | ----------- | ---------|   
+| [EDFbrowser](https://www.teuniz.net/edfbrowser/index.html) |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |
+| [MNE]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |
+| [Fieldtrip]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |
+| [BrainStorm]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |   
+| [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/) | Collection of MATLAB functions and subroutines that uses a thresholded probabilistic white matter template to create a white matter mask. <details><summary>License</summary>GNU General Public License Version 2.0</details> <details><summary>Tool Citation(s) </summary>Litvak, V., Mattout, J., Kiebel, S., Phillips, C., Henson, R., Kilner, J., Barnes, G., Oostenveld, R., Daunizeau, J., Flandin, G., Penny, W., & Friston, K. (2011). EEG and MEG Data Analysis in SPM8. Computational Intelligence and Neuroscience, 2011, e852961. https://doi.org/10.1155/2011/852961</details> <details><summary>Relevant Publications</summary> [Tzourio-Mazoyer et al., 2002](https://doi.org/10.1006/nimg.2001.0978), [Ashburner, 2009](https://doi.org/10.1016/j.mri.2009.01.006), [Gibson et al., 2010](https://doi.org/10.1002/jmri.22004), [Kazemi & Noorizadeh, 2014](https://pubmed.ncbi.nlm.nih.gov/25505764/) </details> | MATLAB | At the lab | Epilepsy |    
+| [Nibabel]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |
+| [Nilearn](https://nilearn.github.io/stable/index.html) | Python package that uses statistical and machine-learning tools to perform analyses on brain volumes such as feature parcellation, automated anatomical labeling (AAL), and connectivity estimation. <details><summary>License</summary>New BSD License </details><details><summary>Tool Citation(s)</summary>Abraham, A., Pedregosa, F., Eickenberg, M., Gervais, P., Mueller, A., Kossaifi, J., Gramfort, A., Thirion, B., & Varoquaux, G. (2014). Machine learning for neuroimaging with scikit-learn. Frontiers in Neuroinformatics, 8. https://www.frontiersin.org/articles/10.3389/fninf.2014.00014</details> <details><summary>Relevant Publications</summary>[Abraham et al., 2014](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014), [J. Huntenburg et al., 2017](https://doi.org/10.3897/rio.3.e12342), [J. M. Huntenburg et al., 2018](https://doi.org/10.1093/gigascience/giy082), [Harris et al., 2022](https://doi.org/10.1016/j.nicl.2022.103120)</details> | [matplotlib](https://matplotlib.org/) | At the lab | Epilepsy |
+| [Brain4views]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |    
+| [plotly]() |  <details><summary>License</summary> GNU General Public License Version 3.0 </details> <details><summary>**Tool Citation(s)** </summary> </details> <details><summary>**Relevant Publications** </summary> </details> | N/A | At the lab| Epilepsy |    
+    
+</details></blockquote>    
     
 hippunfold -> MRI? 
     
