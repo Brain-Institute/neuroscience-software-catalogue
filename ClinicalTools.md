@@ -26,7 +26,7 @@ Since Python and R are common languages used in clinical data curation and analy
 | [Standards (Shiny) App](https://github.com/ondri-nibs/standards_app) | Performs standard checks on ONDRI data. <details><summary>License</summary>GNU General Public License Version 3.1</details> | R, Rstudio | At the lab | Neurodegeneration| 
 | [Data Preparation (Shiny) App](https://github.com/ondri-nibs/dataprep_app) | Prepares ONDRI data for outlier analysis. <details><summary>License</summary>GNU General Public License Version 3.0</details> | R, RStudio, [GSVD](https://github.com/derekbeaton/GSVD) and [ours](https://github.com/derekbeaton/OuRS) R Packages | At the lab | Neurodegeneration| 
 | [Outliers (Shiny) App](https://github.com/ondri-nibs/outliers_app) | Performs outlier analyses on ONDRI data <details><summary>License</summary>GNU General Public License Version 3.2</details> | R, Rstudio | At the lab | Neurodegeneration| 
-
+| [Medidata Rave](https://www.medidata.com/en/clinical-trial-products/clinical-data-management/edc-systems/) | Cloud based clinical data management system that flags errors. Errors are then sent to a research assistant or research coordinator to be corrected. <details><summary>License</summary>Subscription License</details>| N/A | [AHRC](https://www.hubresearch.ca/) | Neurodevelopment |
 
 </details>
   
