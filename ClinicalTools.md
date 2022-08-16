@@ -35,7 +35,7 @@ Since Python and R are common languages used in clinical data curation and analy
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [RStudio](https://www.rstudio.com/) | Software that is used to write R scripts which are subsequently used to analyze clinical datasets. | N/A | At the lab |Cerebral Palsy, Depression, Epilepsy, Neurodegeneration|
+| [RStudio](https://www.rstudio.com/) | Software that is used to write R scripts which are subsequently used to analyze clinical datasets. | N/A | At the lab |Cerebral Palsy, Depression, Epilepsy, Neurodegeneration, Neurodevelopment|
 | [SPSS](https://www.ibm.com/products/spss-statistics?utm_content=SRCWW&p1=Search&p4=43700050715561164&p5=e&gclid=EAIaIQobChMIt-eJ2_Wo-QIV2vvjBx1mQwE9EAAYASAAEgJ0vfD_BwE&gclsrc=aw.ds) | Software suite used for data analysis of clinical datasets. | N/A | At the lab | Cerebral Palsy, Depression, Epilepsy, Neurodegeneration |
 | [NVIVO](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) | Software used to conduct thematic analysis on qualitative datasets. | N/A | At the lab |Cerebral Palsy, Depression|
 | [MATLAB](https://www.mathworks.com/products/matlab.html) | Software that is used to write scripts which are subsequently used to analyze clinical datasets. | N/A | At the lab | Cerebral Palsy, Neurodegeneration |
