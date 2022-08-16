@@ -1,6 +1,6 @@
 # Ontario Brain Institute Imaging Tools
 
-Please select the imaging tool you'd like to look at:
+Please select the modality of the tools you'd like to look at:
 
     
     
