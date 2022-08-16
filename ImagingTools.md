@@ -168,41 +168,12 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 </details>
 
 <details>
-<summary>TMS</summary>
+<summary>External Tool Repositories</summary>
 &nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
-  
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
 
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
-</details>
+[Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware)  
 
-<details>
-<summary>CT</summary>
-&nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
-  
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
+[The Canadian Open Neuroscience Platform (CONP)](https://portal.conp.ca/pipelines?sortKey=conpStatus&sortComparitor=asc&page=1&max_per_page=10&cursor=0&limit=10) 
 
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
-</details>
-
-<details>
-<summary>PET</summary>
-&nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
-  
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
-
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
-</details>
-
-<details>
-<summary>MEG</summary>
-&nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary></details></blockquote>
-  
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary></details></blockquote>
-
-<blockquote><details><summary> Data Analysis Pipelines</summary></details></blockquote>
+[Neuroimaging Informatics Tools and Resources Clearinghouse](https://www.nitrc.org/)
 </details>
