@@ -185,6 +185,8 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 </details></blockquote>
 </details>
 
+External repositories of imaging tools can be found in the dropdown below:
+
 <details>
 <summary>External Tool Repositories</summary>
 &nbsp 
@@ -196,5 +198,7 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 [Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC)](https://www.nitrc.org/)
     
 [Flywheel - Gear Exchange](https://flywheel.io/gear-exchange/)
+    
+[BIDS App Repositories](https://bids-apps.neuroimaging.io/apps/)
     
 </details>
