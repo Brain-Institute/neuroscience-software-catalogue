@@ -194,4 +194,7 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 [The Canadian Open Neuroscience Platform (CONP)](https://portal.conp.ca/pipelines?sortKey=conpStatus&sortComparitor=asc&page=1&max_per_page=10&cursor=0&limit=10) 
 
 [Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC)](https://www.nitrc.org/)
+    
+[Flywheel - Gear Exchange](https://flywheel.io/gear-exchange/)
+    
 </details>
