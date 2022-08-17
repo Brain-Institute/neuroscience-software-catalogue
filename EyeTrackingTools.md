@@ -1,10 +1,12 @@
 # Ontario Brain Institute Eye-Tracking Tools
 
+For a comprehensive guide on how all the tools below fit into an eye-tracking pipeline, please see [here](https://www.biorxiv.org/content/10.1101/2022.02.22.481518v1.full). 
+
 Data Collection Pipelines
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
-| [EyeLink](https://www.sr-research.com/software/) | Collects eye-tracking data and stores data in proprietary binary files (EyeLink specific format) | N/A | At the lab | Neurodegeneration |
+| [EyeLink](https://www.sr-research.com/software/) | Collects eye-tracking data and stores data in proprietary binary files (EyeLink specific format). <details><summary>License</summary>Software License</details> | N/A | At the lab | Neurodegeneration |
 | Lab made Java Code | Converts EyeLink data into MATLAB fIles | N/A | At the lab | Neurodegeneration |
 | [MATLAB](https://www.mathworks.com/products/matlab.html) | MATLAB eye-tracking files were combined with their paired metadata text file. | N/A | At the lab | Neurodegeneration |
 | [MATLAB filtfilt function](https://www.mathworks.com/help/signal/ref/filtfilt.html)| MATLAB function that conducts zero-phase digital filtering of eye-tracking data by processing the MATLAB data in both forward and reverse directions. | MATLAB | At the lab | Neurodegeneration |
