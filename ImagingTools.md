@@ -186,7 +186,6 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 </details>
 
 External repositories of imaging tools can be found in the dropdown below:
-
 <details>
 <summary>External Tool Repositories</summary>
 &nbsp 
