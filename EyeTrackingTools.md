@@ -2,7 +2,7 @@
 
 For a comprehensive guide on how all the tools below fit into an eye-tracking pipeline, please see [here](https://www.biorxiv.org/content/10.1101/2022.02.22.481518v1.full). 
 
-Data Collection Pipelines
+**Data Collection Pipelines**
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
@@ -11,7 +11,7 @@ Data Collection Pipelines
 | [MATLAB](https://www.mathworks.com/products/matlab.html) | MATLAB eye-tracking files were combined with their paired metadata text file. | N/A | At the lab | Neurodegeneration |
 | [MATLAB filtfilt function](https://www.mathworks.com/help/signal/ref/filtfilt.html)| MATLAB function that conducts zero-phase digital filtering of eye-tracking data by processing the MATLAB data in both forward and reverse directions. | MATLAB | At the lab | Neurodegeneration |
 
-Data Curation and Processing Pipelines
+**Data Curation and Processing Pipelines**
   
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
