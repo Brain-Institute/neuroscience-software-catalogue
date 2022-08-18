@@ -2,8 +2,6 @@
 
 Please select one of the dropdowns to browse tools used in clinical data collection, data curation and processing, and data analysis.
 
-Since Python and R are common languages used in clinical data curation and analysis, we've also developed a catalogue of useful R and Python packages that can be found under the "Clinical Coding Packages" dropdown.
-
 <details><summary>Data Collection Pipelines</summary>
 &nbsp
 
@@ -52,6 +50,8 @@ Since Python and R are common languages used in clinical data curation and analy
 | [JMP](https://www.jmp.com/en_ca/offers/jmp-free-trial.html?utm_term=jmp&utm_campaign=(JMP)+Amer+-+CAN+-+ENG+-+Search+-+Branded&utm_source=adwords&utm_medium=ppc&hsa_acc=9962611730&hsa_cam=15955150013&hsa_grp=133915103193&hsa_ad=576168617756&hsa_src=g&hsa_tgt=kwd-169702162&hsa_kw=jmp&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIlPD_6vWo-QIVj-DICh1VagyLEAAYASAAEgIM9_D_BwE) | Statistical software used to conduct statistical analysis. | N/A | At the lab |Neurodevelopment|
   
 </details>
+
+Since Python and R are common languages used in clinical data curation and analysis, we've also developed a catalogue of useful R and Python packages that can be found under the "Clinical Coding Packages" dropdown.
 
 <details><summary>Clinical Coding Packages</summary>
 &nbsp
