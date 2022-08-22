@@ -7,11 +7,11 @@ Please select the modality of the tools you'd like to look at:
 <details>
 <summary>MRI</summary> 
     &nbsp  
-    <blockquote><details><summary> Data Collection Pipelines</summary>
+    <blockquote><details><summary> Data Collection Tools</summary>
 MRI data is collected and processed in the MRI scanner before undergoing data curation.
 </details></blockquote>
 
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
+<blockquote><details><summary> Data Curation and Processing Tools</summary>
 &nbsp 
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -63,7 +63,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 
 
 
-<blockquote><details><summary>Data Analysis Pipeline</summary>
+<blockquote><details><summary>Data Analysis Tools</summary>
 &nbsp
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -92,7 +92,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 <details>
 <summary>EEG</summary>
 &nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary>
+<blockquote><details><summary> Data Collection Tools</summary>
 &nbsp 
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -100,7 +100,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 | [Natus NeuroWorks EEG](https://neuro.natus.com/products-services/natus-neuroworks-eeg-software) | Data collection platform for EEG in the lab. <details><summary>License</summary> Proprietary </details> <details><summary>Tool Citation(s) </summary> Natus products & services. https://neuro.natus.com/products-services </details> <details><summary>Relevant Publications</summary>[Stacey et al., 2013](https://doi.org/10.1111/epi.12202), [McKay et al., 2019](https://doi.org/10.1097/WNP.0000000000000603), [Baldwin et al., 2021](https://doi.org/10.1177/15500594211063710), [Nayak & Nattanmai, 2021](https://doi.org/10.1016/j.eplepsyres.2021.106623) </details>| Mid-size CPU | At the lab | Epilepsy |
 </details></blockquote>
 
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
+<blockquote><details><summary> Data Curation and Processing Tools</summary>
 &nbsp 
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -121,7 +121,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
     
 </details></blockquote>
 
-<blockquote><details><summary> Data Analysis Pipelines</summary>
+<blockquote><details><summary> Data Analysis Tools</summary>
 &nbsp 
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -147,7 +147,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 <details>
 <summary>DTI</summary>
 &nbsp 
-<blockquote><details><summary> Data Collection Pipelines</summary>
+<blockquote><details><summary> Data Collection Tools</summary>
 &nbsp
 DTI data is collected and processed in the DTI machine before undergoing data curation and processing.
 </details></blockquote>
@@ -172,7 +172,7 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
     
 </details></blockquote>
 
-<blockquote><details><summary> Data Analysis Pipelines</summary>
+<blockquote><details><summary> Data Analysis Tools</summary>
 &nbsp
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
