@@ -1,6 +1,6 @@
 # Ontario Brain Institute Wearable Tools
 
-**Data Curation and Processing Pipelines**
+**Data Curation and Processing Tools**
 &nbsp;  
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
 | ---------------- | ----------- | --------------------------- | ----------- | ---------|
