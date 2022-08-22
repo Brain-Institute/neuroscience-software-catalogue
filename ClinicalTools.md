@@ -2,7 +2,7 @@
 
 Please select one of the dropdowns to browse tools used in clinical data collection, data curation and processing, and data analysis.
 
-<details><summary>Data Collection Pipelines</summary>
+<details><summary>Data Collection Tools</summary>
 &nbsp
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -12,7 +12,7 @@ Please select one of the dropdowns to browse tools used in clinical data collect
 
 </details>
 
-<details><summary>Data Curation and Processing Pipelines</summary>
+<details><summary>Data Curation and Processing Tools</summary>
 &nbsp
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
@@ -29,7 +29,7 @@ Please select one of the dropdowns to browse tools used in clinical data collect
 
 </details>
   
-<details><summary>Data Analysis Pipelines</summary>
+<details><summary>Data Analysis Tools</summary>
 &nbsp
 
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
