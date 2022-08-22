@@ -152,7 +152,7 @@ MRI data is collected and processed in the MRI scanner before undergoing data cu
 DTI data is collected and processed in the DTI machine before undergoing data curation and processing.
 </details></blockquote>
   
-<blockquote><details><summary> Data Curation and Processing Pipelines</summary>
+<blockquote><details><summary> Data Curation and Processing Tools</summary>
 &nbsp
     
 | Tool/Pipeline | Description | Requirements | Compute Location | Research Area(s) |
