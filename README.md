@@ -13,4 +13,4 @@ To browse tools based on modality, select the desired modality from the buttons 
 
 OBI follows the FAIR principles for software. More information about the FAIR principles can be found [here](FAIR.md).
 
-Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tJ1GxJj0vs
+Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tzegm5AWSp
