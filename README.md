@@ -13,4 +13,6 @@ To browse tools based on modality, select the desired modality from the buttons 
 
 OBI follows the FAIR principles for software. More information about the FAIR principles can be found [here](FAIR.md).
 
-Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tzegm5AWSp
+Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tzegm5AWSp. 
+
+If you'd like to comment or ask a question about a specific tool with the community, please go to the [GitHub issues page](https://github.com/Brain-Institute/neuroscience-software-catalogue/issues).
