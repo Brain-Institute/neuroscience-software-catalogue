@@ -1,4 +1,4 @@
-# Ontario Brain Institute Eye-Tracking Tools
+# Ontario Brain Institute Eye Tracking Tools
 
 For a comprehensive guide on how all the tools below fit into an eye-tracking pipeline, please see [here](https://www.biorxiv.org/content/10.1101/2022.02.22.481518v1.full). 
 
