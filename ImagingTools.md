@@ -206,7 +206,7 @@ DTI data is collected and processed in the DTI machine before undergoing data cu
 
 External repositories of imaging tools can be found in the dropdown below:
 <details>
-<summary>External Tool Repositories</summary>
+<summary>External Repositories for Neuroimaging Data Processing</summary>
 &nbsp 
 
 [Open Software for Human Electrophysiology](https://github.com/openlists/ElectrophysiologySoftware)  
