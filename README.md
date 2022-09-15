@@ -11,8 +11,14 @@ To browse tools based on modality, select the desired modality from the buttons 
 [![EyetrackingButton](https://user-images.githubusercontent.com/107212980/184240805-cd6a32ab-a941-4400-80a1-837c00b2c8d3.PNG)](EyeTrackingTools.md)
 [![RetinalImagingButton](https://user-images.githubusercontent.com/107212980/184241317-d6af8404-b5ad-4b3c-a578-f48c4bae5bda.PNG)](RetinalImagingTools.md)
 
+## FAIR Principles for Software
+
 OBI follows the FAIR principles for software. More information about the FAIR principles can be found [here](FAIR.md).
 
+## Feedback
 Please use this link to request any improvements or submit any suggestions: https://forms.office.com/r/tzegm5AWSp. 
 
 If you'd like to comment or ask a question about a specific tool with the community, please go to the [GitHub issues page](https://github.com/Brain-Institute/neuroscience-software-catalogue/issues).
+
+## Acknowledgements
+We would like to acknowledge the Government of Ontario and Roche Canada for the financial contribution that made the creation of this catalogue possible. We would also like to thank all the individuals who've contributed to developing this catalogue in the spirit of open science and collaboration.
